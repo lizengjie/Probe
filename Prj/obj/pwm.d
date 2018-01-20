@@ -1,0 +1,9 @@
+.\obj\pwm.o: ..\Bsp\pwm.c
+.\obj\pwm.o: ..\Bsp\pwm.h
+.\obj\pwm.o: ..\FWLIB\include\lpc17xx_pinsel.h
+.\obj\pwm.o: ..\cmsis\LPC17xx.h
+.\obj\pwm.o: c:\Keil\ARM\RV31\INC\core_cm3.h
+.\obj\pwm.o: c:\Keil\ARM\RV31\INC\stdint.h
+.\obj\pwm.o: ..\cmsis\system_LPC17xx.h
+.\obj\pwm.o: ..\FWLIB\include\lpc_types.h
+.\obj\pwm.o: ..\FWLIB\include\lpc17xx_pwm.h

@@ -1,0 +1,11 @@
+.\obj\timer.o: ..\Bsp\timer.c
+.\obj\timer.o: ..\Bsp\timer.h
+.\obj\timer.o: ..\FWLIB\include\lpc17xx_timer.h
+.\obj\timer.o: ..\cmsis\LPC17xx.h
+.\obj\timer.o: c:\Keil\ARM\RV31\INC\core_cm3.h
+.\obj\timer.o: c:\Keil\ARM\RV31\INC\stdint.h
+.\obj\timer.o: ..\cmsis\system_LPC17xx.h
+.\obj\timer.o: ..\FWLIB\include\lpc_types.h
+.\obj\timer.o: ..\Bsp\uart.h
+.\obj\timer.o: ..\FWLIB\include\lpc17xx_pinsel.h
+.\obj\timer.o: ..\FWLIB\include\lpc17xx_uart.h

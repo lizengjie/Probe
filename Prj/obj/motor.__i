@@ -1,0 +1,1 @@
+-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\FWLIB\include -I..\cmsis -I..\App -I..\Bsp -I "c:\Keil\ARM\INC" -I "c:\Keil\ARM\INC\NXP\LPC17xx" -o ".\obj\motor.o" --omf_browse ".\obj\motor.crf" --depend ".\obj\motor.d" "..\App\motor.c"

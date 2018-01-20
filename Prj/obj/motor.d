@@ -1,0 +1,14 @@
+.\obj\motor.o: ..\App\motor.c
+.\obj\motor.o: ..\Bsp\pwm.h
+.\obj\motor.o: ..\FWLIB\include\lpc17xx_pinsel.h
+.\obj\motor.o: ..\cmsis\LPC17xx.h
+.\obj\motor.o: c:\Keil\ARM\RV31\INC\core_cm3.h
+.\obj\motor.o: c:\Keil\ARM\RV31\INC\stdint.h
+.\obj\motor.o: ..\cmsis\system_LPC17xx.h
+.\obj\motor.o: ..\FWLIB\include\lpc_types.h
+.\obj\motor.o: ..\FWLIB\include\lpc17xx_pwm.h
+.\obj\motor.o: ..\Bsp\timer.h
+.\obj\motor.o: ..\FWLIB\include\lpc17xx_timer.h
+.\obj\motor.o: ..\Bsp\gpio.h
+.\obj\motor.o: ..\FWLIB\include\lpc17xx_gpio.h
+.\obj\motor.o: ..\App\motor.h

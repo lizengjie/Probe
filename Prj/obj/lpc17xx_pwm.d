@@ -1,0 +1,9 @@
+.\obj\lpc17xx_pwm.o: ..\FWLIB\source\lpc17xx_pwm.c
+.\obj\lpc17xx_pwm.o: ..\FWLIB\include\lpc17xx_pwm.h
+.\obj\lpc17xx_pwm.o: ..\cmsis\LPC17xx.h
+.\obj\lpc17xx_pwm.o: c:\Keil\ARM\RV31\INC\core_cm3.h
+.\obj\lpc17xx_pwm.o: c:\Keil\ARM\RV31\INC\stdint.h
+.\obj\lpc17xx_pwm.o: ..\cmsis\system_LPC17xx.h
+.\obj\lpc17xx_pwm.o: ..\FWLIB\include\lpc_types.h
+.\obj\lpc17xx_pwm.o: ..\FWLIB\include\lpc17xx_clkpwr.h
+.\obj\lpc17xx_pwm.o: ..\FWLIB\include\lpc17xx_libcfg_default.h
